@@ -319,5 +319,8 @@ style.textContent = `
             transform: translateX(100%);
         }
     }
+
+
+    
 `;
 document.head.appendChild(style);
