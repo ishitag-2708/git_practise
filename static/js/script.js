@@ -305,7 +305,7 @@ function initFeatureCards() {
         });
     });
 }
-
+hii
 // Add slide out animation to stylesheet
 const style = document.createElement('style');
 style.textContent = `
